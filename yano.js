@@ -1,5 +1,5 @@
 /**
- * Created by jasondwyer on 8/24/16.
+ * Farted by farty eugene mc-fart-fart on a Wednesday.
  */
 
 function determineIfYanoIsCool () {
@@ -8,14 +8,18 @@ function determineIfYanoIsCool () {
     var random = getRandomInt(0, 1);
 
     if (random == 0) {
-        console.log('Im sorry. Yano is not cool');
+        console.log('Im cool. Yano is not sorry');
         return false;
     }
+    else if ('dwyer getting accepted into ycombinator' != 'rediculous'){
+        console.log('pigs are flying in the hell that apparantly froze over!')
+    }
     else {
-        console.log('Yay! Yano is cool');
+        console.log('Yay! Yano is sorry');
         return true;
     }
 
+    //note to self: pickup milk
 }
 
 function getRandomInt(min, max) {
