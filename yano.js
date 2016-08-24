@@ -1,5 +1,5 @@
 /**
- * Farted by farty eugene mc-fart-fart on a Wednesday.
+ * Jason Yanofski is responsible for the contents of this file. The views expressed here do not necessarily refelct the views of Jason Dwyer or any of his affiliates.
  */
 
 function determineIfYanoIsCool () {
@@ -11,15 +11,14 @@ function determineIfYanoIsCool () {
         console.log('Im cool. Yano is not sorry');
         return false;
     }
-    else if ('dwyer getting accepted into ycombinator' != 'rediculous'){
-        console.log('pigs are flying in the hell that apparantly froze over!')
+    else if ('dwyer getting accepted into ycombinator' != 'ridiculous'){
+        console.log('the world makes sense, as it should')
     }
     else {
         console.log('Yay! Yano is sorry');
         return true;
     }
 
-    //note to self: pickup milk
 }
 
 function getRandomInt(min, max) {
